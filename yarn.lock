@@ -11435,6 +11435,11 @@ vue-chartjs@^3.4.0:
   resolved "https://registry.yarnpkg.com/vue-chartjs/-/vue-chartjs-3.5.0.tgz#edd0c2be94c521bcbc5357c24afb9f3560855f84"
   integrity sha512-yWNhG3B6g6lvYqNInP0WaDWNZG/SNb6XnltkjR0wYC5pmLm6jvdiotj8er7Mui8qkJGfLZe6ULjrZdHWjegAUg==
 
+vue-cli-plugin-build-info@~0.1.9:
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/vue-cli-plugin-build-info/-/vue-cli-plugin-build-info-0.1.9.tgz#3f206c0f919cb2e7afd6b1ea684100a2c13de57f"
+  integrity sha512-YlihIkeE/vrzRW78L2YKgYsG9oDwYusVcFbfaCWne86RHGkm0fiXYazi8r9YMfVCXparivsRSbuSD/CuxfJf4w==
+
 vue-clipboard2@^0.3.0, vue-clipboard2@^0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/vue-clipboard2/-/vue-clipboard2-0.3.1.tgz#6e551fb7bd384889b28b0da3b12289ed6bca4894"
